@@ -14248,7 +14248,7 @@ function e0() {
             children: y.jsx("img", { src: "/img/x.svg", alt: "" }),
           }),
           y.jsx("a", {
-            href: "https://dexscreener.com/solana/0xComingSoon",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x0ce25dbe4a05ce85723d008487e1efb13e67e722?t=1739635264626",
             target: "_blank",
             className: "App_gde_el",
             children: y.jsx("img", { src: "/img/dex.svg", alt: "" }),
